@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SSS Mart – Online Shopping</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+ 
+  <header>
+    <h1>🛒 SSS Mart</h1>
+    <div id="cart">Cart (<span id="cart-count">0</span>)</div>
+  </header>
+
+  <nav id="filters">
+    <button class="filter-btn active" data-cat="all">All</button>
+    <button class="filter-btn"         data-cat="groceries">Groceries</button>
+    <button class="filter-btn"         data-cat="home">Home&nbsp;Appliances</button>
+    <button class="filter-btn"         data-cat="electronics">Electronics</button>
+  </nav>
+
+  <main>
+    <section id="product-grid" class="product-grid"></section>
+  </main>
+  <div id="toast-container"></div>
+
+  <footer>© 2025 SSS Mart. All rights reserved.</footer>
+  <script src="script.js"></script>
+</body>
+</html>
