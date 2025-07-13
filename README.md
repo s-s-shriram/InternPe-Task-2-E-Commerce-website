@@ -17,8 +17,7 @@ Welcome to **SSS Mart**, a fully functional and responsive e-commerce website bu
 ---
 
 ## 🖼️ Preview
-
-
+<img width="1326" height="629" alt="image" src="https://github.com/user-attachments/assets/5b69f762-4093-4f61-9468-3b2cbdb4425b" />
 
 ---
 
@@ -31,4 +30,14 @@ Welcome to **SSS Mart**, a fully functional and responsive e-commerce website bu
 ---
 
 ## 📁 Folder Structure
+SSS-Mart/
+├── index.html → Main webpage
+├── style.css → All UI styling
+├── script.js → Logic & interactivity
 
+## 🎓 Internship Info
+Internship Platform: InternPe
+Task: Web Development Task 2
+Project Name: SSS Mart
+Year: 2025
+Status: ✅ Completed
