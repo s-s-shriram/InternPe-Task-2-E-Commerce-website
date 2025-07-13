@@ -30,10 +30,10 @@ Welcome to **SSS Mart**, a fully functional and responsive e-commerce website bu
 ---
 
 ## 📁 Folder Structure
-SSS-Mart/
-├── index.html → Main webpage
-├── style.css → All UI styling
-├── script.js → Logic & interactivity
+- SSS-Mart/
+- ├── index.html → Main webpage
+- ├── style.css → All UI styling
+- ├── script.js → Logic & interactivity
 
 ## 🎓 Internship Info
 - Internship Platform: InternPe
