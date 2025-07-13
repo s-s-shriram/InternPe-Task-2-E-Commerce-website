@@ -36,8 +36,8 @@ SSS-Mart/
 ├── script.js → Logic & interactivity
 
 ## 🎓 Internship Info
-Internship Platform: InternPe
-Task: Web Development Task 2
-Project Name: SSS Mart
-Year: 2025
-Status: ✅ Completed
+- Internship Platform: InternPe
+- Task: Web Development Task 2
+- Project Name: SSS Mart
+- Year: 2025
+- Status: ✅ Completed
