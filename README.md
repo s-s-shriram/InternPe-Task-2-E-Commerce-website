@@ -34,10 +34,17 @@ Welcome to **SSS Mart**, a fully functional and responsive e-commerce website bu
 - ├── index.html → Main webpage
 - ├── style.css → All UI styling
 - ├── script.js → Logic & interactivity
-
+---
 ## 🎓 Internship Info
 - Internship Platform: InternPe
 - Task: Web Development Task 2
 - Project Name: SSS Mart
 - Year: 2025
 - Status: ✅ Completed
+---
+## 🤝 Connect with Me
+**GitHub**: s-s-shriram
+**LinkedIn**: www.linkedin.com/in/shriram-s-s013092023
+
+
+---
